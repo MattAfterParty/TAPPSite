@@ -14,7 +14,9 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #000000;
+  background-image: url("./Black-Velvet-Wallpapers.jpg");
+  background-repeat: no-repeat, repeat;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
