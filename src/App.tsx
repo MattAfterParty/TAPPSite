@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import TAPPlogo from './TAPP_lgog.svg';
+import TAPPlogo from './TAPP_logo.svg';
 import './App.css';
 
 function App() {
