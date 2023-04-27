@@ -17,6 +17,8 @@
   background-color: #000000;
   background-image: url("./Black-Velvet-Wallpapers.jpg");
   background-repeat: no-repeat, repeat;
+  background-position: center;
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
